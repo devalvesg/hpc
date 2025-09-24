@@ -1,4 +1,4 @@
-# Projeto HPC — <Título do Projeto>
+# Projeto HPC
 
 ## Visão geral
 Neste projeto implementamos um pipeline de computação paralela simples usando MPI em Python. Substitua o conteúdo desta seção pela descrição do seu problema (por exemplo: processamento de imagens médicas, análise de séries temporais, simulações numéricas), os dados usados e a motivação.
