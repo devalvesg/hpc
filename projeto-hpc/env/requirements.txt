@@ -1,0 +1,6 @@
+# Requirements for local development
+mpi4py
+# Optional plotting
+matplotlib
+# Optional (GPU / deep learning)
+# torch
